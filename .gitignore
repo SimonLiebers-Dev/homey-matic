@@ -3,3 +3,8 @@ package-lock.json
 .idea
 /node_modules/
 /cli/homeymatic-cli
+
+
+# Added by Homey CLI
+/.homeybuild/
+.DS_Store
